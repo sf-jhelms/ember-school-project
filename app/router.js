@@ -5,7 +5,8 @@ const Router = Ember.Router.extend({
   location: config.locationType,
   rootURL: config.rootURL
 });
-//Hey, I'm a comment 
+//Hey, I'm a comment
+//Hey, In new branch baranch-name
 Router.map(function() {
 });
 
